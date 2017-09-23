@@ -1,0 +1,52 @@
+.container .col-6 .logo i {
+  border: 1px solid #8dbf41;
+  border-radius: 100%;
+  background-color: #8dbf41;
+  color: white;
+  font-size: 35px;
+  width: 60px;
+  height: 60px;
+  text-align: center;
+  line-height: 60px; }
+.container .col-6 .logo h1 {
+  float: right;
+  margin-top: 5%;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 900; }
+.container .col-6 .collapse {
+  float: right;
+  margin-top: 2%;
+  font-size: 20px; }
+
+main .carousel-control-prev-icon {
+  position: absolute;
+  left: 8%;
+  bottom: 5%;
+  color: white; }
+main .carousel-control-next-icon {
+  position: absolute;
+  right: 8%;
+  bottom: 5%;
+  color: white; }
+main .well .row {
+  margin-top: 10%; }
+  main .well .row .col-6 .item2 {
+    margin-left: 5%; }
+
+.well .item2 h1 {
+  font-size: 70px;
+  color: #8dbf41; }
+.well .item2 h3 {
+  border: 1px solid #8dbf41;
+  color: #8dbf41;
+  display: inline-block;
+  padding: 10px;
+  margin-bottom: 40px; }
+.well .item2 h5 {
+  font-size: 20px;
+  font-weight: 300; }
+.well .item2 p {
+  font-size: 12px;
+  font-weight: 300; }
+
+/*# sourceMappingURL=style.css.map */
